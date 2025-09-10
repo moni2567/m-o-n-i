@@ -1,0 +1,12 @@
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("NAME       : MONIKA");
+    System.out.println("DEPARTMENT :COMMERCE");
+    System.out.println("CLASS      :B.COM (PA)");
+    System.out.println("YEAR       :II year");
+    System.out.println("AGE        : 18  ");
+    System.out.println("COLLEGE    :VICAS "); 
+    System.out.println("PLACE      :ELAYAMPALAYAM");
+   
+  }
+}
