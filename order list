@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The ol element</h1>
+
+<ol>
+  <li>apple</li>
+  <li>orange</li>
+  <li>mango</li>
+  <li>banana</li>
+  <li>grape</li>
+  <li>lemon</li>
+  <li>papaya</li>
+  <li>kiwi</li>
+</ol>
+  
+ 
+</body>
+</html>
